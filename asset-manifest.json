@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tourist.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tourist.github.io/static/js/main.9566cddc.chunk.js",
+    "main.js.map": "/tourist.github.io/static/js/main.9566cddc.chunk.js.map",
+    "runtime-main.js": "/tourist.github.io/static/js/runtime-main.164d50e9.js",
+    "runtime-main.js.map": "/tourist.github.io/static/js/runtime-main.164d50e9.js.map",
+    "static/js/2.7ff2e5f5.chunk.js": "/tourist.github.io/static/js/2.7ff2e5f5.chunk.js",
+    "static/js/2.7ff2e5f5.chunk.js.map": "/tourist.github.io/static/js/2.7ff2e5f5.chunk.js.map",
+    "static/js/3.af91f829.chunk.js": "/tourist.github.io/static/js/3.af91f829.chunk.js",
+    "static/js/3.af91f829.chunk.js.map": "/tourist.github.io/static/js/3.af91f829.chunk.js.map",
+    "index.html": "/tourist.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tourist.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7ff2e5f5.chunk.js.LICENSE.txt": "/tourist.github.io/static/js/2.7ff2e5f5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tourist.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.164d50e9.js",
+    "static/js/2.7ff2e5f5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9566cddc.chunk.js"
+  ]
+}
